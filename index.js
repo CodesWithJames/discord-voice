@@ -274,7 +274,7 @@ class DiscordVoice {
 	 * @static
 	 * @param {Discord.Client} [client] - Your Discord.CLient.
 	 * @param {array} [leaderboard] - The output from 'fetchLeaderboard' function.
-	 * @param {boolean} [fetchUsers=false] - Wheter to fetch each users position.
+	 * @param {boolean} [fetchUsers=false] - whether to fetch each users position.
 	 * @return {Array} - The leaderboard array.
 	 * @memberof DiscordVoice
 	 */
